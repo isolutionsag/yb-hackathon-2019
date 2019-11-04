@@ -92,8 +92,11 @@ Develop a new digital tool to prevent accidents on Swiss football pitches. The f
 ## BKW
 With around 500,000 customers, over 1,200 employees and 60 branches, the Berner Kantonalbank (BEKB) is strongly anchored in the cantons of Berne and Solothurn. We attach great importance to sustainable activities in the region and are committed to cultural and social concerns. We have also been committed to sustainable development for many years. We attach great importance to an open and transparent corporate culture. BEKB accepts its social responsibility and offers attractive working conditions in a successful company.
 
-### Challenge 
-To be defined
+### Digitaler Sprachassistenten
+Digitale Sprachassistenten können uns in unterschiedlichen Alltagssituationen unterstützen: Beispielsweise wenn wir am Fussballmatch mit einem Bier in der einen und einer YB-Wurst in der anderen Hand sitzen. Entwickle einen digitalen Sprachassistenten für Alexa, Google oder Cortana, welcher dir alle Informationen rund um YB liefert. Wir stellen dir historische Daten von Resultaten und Torschützen zur Verfügung.
+
+### Digital assistent
+Digital assistants can assist us in various day-to-day situations: For example, when we are at a football match with a beer in one hand and a YB sausage in the other. Develop a digital assistant for Alexa, Google or Cortana that gives you all the information you need about YB. We provide you with historical data of results and players.
 
 ## More information
 More information on <https://hackathon.bscyb.ch/>
