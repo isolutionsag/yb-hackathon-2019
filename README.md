@@ -89,7 +89,7 @@ Entwickle ein digitales Tool, um Unfälle auf Schweizer Fussballplätzen zu verh
 ### Prevent football accidents 
 Develop a new digital tool to prevent accidents on Swiss football pitches. The focus should be on the engagement of as many amateur football players as possible (club and leisure) with gamification elements.
 
-## BKW
+## BEKB
 With around 500,000 customers, over 1,200 employees and 60 branches, the Berner Kantonalbank (BEKB) is strongly anchored in the cantons of Berne and Solothurn. We attach great importance to sustainable activities in the region and are committed to cultural and social concerns. We have also been committed to sustainable development for many years. We attach great importance to an open and transparent corporate culture. BEKB accepts its social responsibility and offers attractive working conditions in a successful company.
 
 ### Digitaler Sprachassistenten
